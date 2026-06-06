@@ -1,0 +1,20 @@
+# ملفات الإعدادات الحساسة
+config/database.php
+
+# مجلدات الملفات المرفوعة
+uploads/avatars/
+uploads/doctor_photos/
+uploads/prescriptions/
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# ملفات IDE
+.vscode/
+.idea/
+
+# ملفات PHP المؤقتة
+*.log
+*.tmp
+error_log

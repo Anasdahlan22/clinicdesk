@@ -214,6 +214,7 @@ if ($role == 'admin') {
          .navbar .logo {
             display: none
         }
+        
     </style>
 </head>
 <body>

@@ -168,11 +168,11 @@ if ($page == 'login') {
                         <button type="submit" class="btn-login">Login</button>
                     </form>
                     
-                    <div class="demo-info">
+                    <!-- <div class="demo-info">
                         <strong>Demo Account:</strong><br>
                         Email: <code>admin@clinicdesk.com</code><br>
                         Password: <code>admin123</code>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
